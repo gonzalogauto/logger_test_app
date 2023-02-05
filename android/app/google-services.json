@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "408907568449",
+    "project_id": "logger-app-c99a6",
+    "storage_bucket": "logger-app-c99a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408907568449:android:95283d2430b78e3b73bdc0",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.logger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408907568449-0220lb7g4q7teechu5fhcj7qmam36osq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyK8LGWd1d4K5oZDN4MYmNbWbNyU62kcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408907568449-0220lb7g4q7teechu5fhcj7qmam36osq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408907568449-u4mdigk740m6docg7pjafahkt966rvv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.logger-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408907568449:android:6d220b54655d91c673bdc0",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.logger_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408907568449-0220lb7g4q7teechu5fhcj7qmam36osq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyK8LGWd1d4K5oZDN4MYmNbWbNyU62kcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408907568449-0220lb7g4q7teechu5fhcj7qmam36osq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408907568449-u4mdigk740m6docg7pjafahkt966rvv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.logger-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
